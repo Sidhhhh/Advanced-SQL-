@@ -128,15 +128,6 @@ GROUP BY l.lga_name;
 │       ├── immunization_report.png
 ```
 
----
-
-## 🔗 Repository Access
- 
-📁 GitHub Repo: [Your GitHub Link Here](https://github.com/clembrain/Clem_Portfolio/tree/main/Advanced%20DB%20Project)
-🖼️ All screenshots saved in `/Photo/` subfolders
-
----
-
 ## ✅ Summary
 
 These SQL projects demonstrate:
