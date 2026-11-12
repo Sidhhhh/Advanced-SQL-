@@ -2,9 +2,9 @@
 
 # 🧠 Advanced SQL & Database Projects
 
-### By: Airiohuodion Clement | MSc Data Science
+### By: Siddharam Javalkoti | MCA
 
-🗕️ Date: 2024
+🗕️ Date: 2026
 
 This portfolio showcases two comprehensive projects using **Advanced SQL** for data querying, wrangling, transformation, and reporting. Each project reflects practical applications of relational databases, designed to demonstrate robust database skills for solving real-world problems using PostgreSQL and Microsoft SQL Server.
 
